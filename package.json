@@ -13,7 +13,8 @@
     "to-logseq": "./src/index.js"
   },
   "dependencies": {
-    "commander": "^2.10.0"
+    "commander": "^2.10.0",
+    "uuid": "^8.3.2"
   },
   "keywords": [
     "cli"
